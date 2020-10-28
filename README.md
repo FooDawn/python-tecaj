@@ -1,4 +1,4 @@
 # python-tecaj
-Če je kaj kar sem pozabila napisati v file, napišite v ta file in se bo dodalo v codo.
+Če je kaj kar sem pozabila napisati v file, napišite v file povezan z linkom in se bo dodalo v kodo.
 
-Manjka, ne razumem:
+https://hackmd.io/@Shank/pythonTecaj/edit
